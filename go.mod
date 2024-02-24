@@ -31,6 +31,7 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.52.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
+	github.com/yan-aint-nickname/dead-simple-service-library/http v0.0.0-00010101000000-000000000000 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect
 	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
@@ -40,4 +41,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/yan-aint-nickname/dead-simple-service-library => /Users/kirsh-ya/playground/dead-simple-service-library
+replace github.com/yan-aint-nickname/dead-simple-service-library/http => /Users/kirsh-ya/playground/dead-simple-service-library/http
