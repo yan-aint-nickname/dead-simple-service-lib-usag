@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yan-aint-nickname/dead-simple-service-library-usage/some_domain/"
+	"github.com/yan-aint-nickname/dead-simple-service-library-usage/some_domain"
 
 	"github.com/gofiber/fiber/v2"
 	undead "github.com/yan-aint-nickname/dead-simple-service-library/http"
